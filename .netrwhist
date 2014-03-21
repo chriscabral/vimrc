@@ -1,6 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
-let g:netrw_dirhist_1='/Users/chris.cabrel/nba-chef-repo/nba/dashboard2.0/src'
-let g:netrw_dirhist_2='/Users/chris.cabrel/nba-chef-repo/nba/dashboard2.0/src/com'
-let g:netrw_dirhist_3='/Users/chris.cabrel/nba-chef-repo/nba/dashboard2.0/src/com/newbrandanalytics'
-let g:netrw_dirhist_4='/Users/chris.cabrel/code/github/nba'
